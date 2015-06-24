@@ -1,0 +1,10 @@
+#mainBar{
+    height: 80px;
+}
+#logo{
+    height: 75px;
+    margin-top: 0px;
+}
+.navbar-brand{
+    padding: 0px;
+}
